@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/achmad-raihan-ramadhan-239a94357)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ach.raihanramadhan@gmail.com)
 [![Portfolio Web](https://img.shields.io/badge/Live_Website-smk--al--aziziyah.com-00C7B7?style=for-the-badge&logo=firefox&logoColor=white)](https://smk-al-aziziyah.com)
-[![MyRxuar App](https://img.shields.io/badge/Live_App-MyRxuar-22c55e?style=for-the-badge&logo=react&logoColor=white)]((https://myrxuar.lovable.app/))
+[![MyRxuar App](https://img.shields.io/badge/Live_App-MyRxuar-22c55e?style=for-the-badge&logo=react&logoColor=white)](https://myrxuar.lovable.app/)
 
 </div>
 
