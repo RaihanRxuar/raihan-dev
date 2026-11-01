@@ -68,12 +68,9 @@ Graduate of **Informatics Engineering (S.Kom)** with practical experience in bui
 ## 📊 GitHub Performance & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihan-dev&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-dev
-&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaihanRxuar&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanRxuar&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </p>
-
----
 
 <div align="center">
   <sub>Designed with ❤️ by Achmad Raihan Ramadhan</sub>
